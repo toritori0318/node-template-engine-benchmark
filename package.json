@@ -1,0 +1,20 @@
+{
+    "name": "application-name"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.5.8"
+    , "jade": ">= 0.0.1"
+    , "ejs": "latest"
+    , "coffee-script": "latest"
+    , "coffeekup": "latest"
+    , "hamljs": "latest"
+    , "mu2": "latest"
+    , "jqtpl": "latest"
+    , "hogan": "latest"
+    , "uglify-js": "latest"
+    , "jst": "latest"
+    , "whiskers": "latest"
+    , "thunder": "latest"
+  }
+}
